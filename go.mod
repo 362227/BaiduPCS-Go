@@ -1,4 +1,4 @@
-module github.com/362227/BaiduPCS-Go
+module github.com/qjfoidnh/BaiduPCS-Go
 
 go 1.23
 
